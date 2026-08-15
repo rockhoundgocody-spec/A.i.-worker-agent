@@ -1,4 +1,4 @@
-# The Four Hour Workweek by Tim Ferris
+# The Four Hour Workweek by Tim Ferriss
 
 [post](https://www.reddit.com/r/WorkOnline/comments/b0ltfu/animated_summary_of_the_four_hour_workweek_by_tim/)
 [video](https://www.youtube.com/watch?v=tCWzSlAqO0g)
@@ -11,19 +11,19 @@ The Four-Hour Work Week is one of the bestselling books, which talk about levera
 
 Tim’s objective is to show you both how to design your ideal lifestyle and how to get there. He gives eye-opening insights, driving them home with interesting stories, resource lists and detailed guides.
 
-There is, however, a catch: Tim Ferris offers what is, quite frankly, a reality that is very alien to most of us. As such, it is easy to dismiss the reality he is trying to bring to your attention as either unrealistic or unattainable.
+There is, however, a catch: Tim Ferriss offers what is, quite frankly, a reality that is very alien to most of us. As such, it is easy to dismiss the reality he is trying to bring to your attention as either unrealistic or unattainable.
 
 
 ## Step I: D Is For Definition
 
-The most important thing you could do to turn your life around is to define your goals and objectives. Tim Ferris makes it clear that the primary thing that separates those who are genuinely wealthy, debt-free and in true control of their time, is that they made the effort to define their goals and have since committed to meeting them as efficiently.
+The most important thing you could do to turn your life around is to define your goals and objectives. Tim Ferriss makes it clear that the primary thing that separates those who are genuinely wealthy, debt-free and in true control of their time, is that they made the effort to define their goals and have since committed to meeting them as efficiently.
 
-Tim Ferris states that to truly boost efficiency, with regard to meeting your goals, you need to delegate. Always strive to do the minimum necessary for maximum effect. This does not mean to cut corners: it means that you shouldn’t waste time on tasks that have a low payoff.
+Tim Ferriss states that to truly boost efficiency, with regard to meeting your goals, you need to delegate. Always strive to do the minimum necessary for maximum effect. This does not mean to cut corners: it means that you shouldn’t waste time on tasks that have a low payoff.
 
 
 ## Step II: E Is For Elimination
 
-Here, Tim Ferris urges you to “forget” time management, and the results-by-volume approach. This is simply not effective. It is possible to do a lot of work each day, but really end up doing very little if prioritization is not in place.
+Here, Tim Ferriss urges you to “forget” time management, and the results-by-volume approach. This is simply not effective. It is possible to do a lot of work each day, but really end up doing very little if prioritization is not in place.
 
 Throughout the section, the author makes it clear that being busy, more often than not, involves avoiding the more important, more uncomfortable activities. You need to eliminate the chaff and only work on your prime priorities, and this is only possible if you take care of step I first. With defined goals, you are able to define the activities that should take top priorities. Discard the rest and only focus on the important tasks.
 
@@ -62,5 +62,5 @@ Talking of not wasting time on unimportant things:
 
 Make sure to come up with your not-to-do-list. You can include such things as web browsing, email shuffling, status meetings, Etc.
 
-Tim Ferris makes it clear that “no” is a tool that you need to wield frequently. Free up time by saying “no” to low consequence work, especially if it will take up a lot of your time. You do not need to write a thesis for your excuses either- keep them vague for the most part.
+Tim Ferriss makes it clear that “no” is a tool that you need to wield frequently. Free up time by saying “no” to low consequence work, especially if it will take up a lot of your time. You do not need to write a thesis for your excuses either- keep them vague for the most part.
 
