@@ -2,6 +2,13 @@
 
 Book summaries by [u/alwaysimproving95](https://reddit.com/u/alwaysimproving95)
 
+## AI worker agents
+
+Reusable worker-agent definitions live in [`agents/`](agents/README.md). The
+collection currently includes an [Administration / Customer Care
+agent](agents/administration-customer-care.json) for handling customer-service
+and back-office workflows with human approval for consequential actions.
+
 * [Delivering Happiness by Tony Hsieh](delivering-happiness-by-tony-hsieh/index.md)
 * [Grit by Angela Duckworth](grit-by-angela-duckworth/index.md)
 * [Meditations by Marcus Aurelius ](meditations-by-marcus-aurelius/index.md)
