@@ -9,6 +9,26 @@ collection currently includes an [Administration / Customer Care
 agent](agents/administration-customer-care.json) for handling customer-service
 and back-office workflows with human approval for consequential actions.
 
+## AI employee
+
+This repository now includes **Always Improving Coach**, an accountability and execution
+employee that uses the summaries below as its internal reference library. The employee turns
+goals into small actions, builds measurable routines, facilitates check-ins and retrospectives,
+and adapts plans without shame or invented certainty.
+
+The complete employee instructions live in [`AGENTS.md`](AGENTS.md). To use the employee,
+open this repository in an agent environment that supports `AGENTS.md`, then describe the
+outcome you want. Useful starting prompts include:
+
+- `Help me turn my goal of launching a landing page this month into a one-week plan.`
+- `Run a check-in: I planned three workouts, completed two, and lost momentum on Friday.`
+- `Help me decide between these two projects using a small reversible test.`
+- `Summarize the library's most relevant advice for building a consistent writing habit.`
+
+The coach is designed for planning and accountability, not medical, legal, financial, or
+mental-health advice. It paraphrases and links the repository's secondary summaries rather
+than presenting them as complete books or primary research.
+
 * [Delivering Happiness by Tony Hsieh](delivering-happiness-by-tony-hsieh/index.md)
 * [Grit by Angela Duckworth](grit-by-angela-duckworth/index.md)
 * [Meditations by Marcus Aurelius ](meditations-by-marcus-aurelius/index.md)
