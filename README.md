@@ -1,10 +1,10 @@
 # Always Improving
 
-Book summaries by [https://reddit.com/u/alwaysimproving95]
+Book summaries by [/u/alwaysimproving95 on Reddit](https://www.reddit.com/user/alwaysimproving95)
 
 * [Delivering Happiness by Tony Hsieh](delivering-happiness-by-tony-hsieh/index.md)
 * [Grit by Angela Duckworth](grit-by-angela-duckworth/index.md)
-* [Meditations by Marcus Aurelius ](meditations-by-marcus-aurelius/index.md)
+* [Meditations by Marcus Aurelius](meditations-by-marcus-aurelius/index.md)
 * [Models by Mark Manson](models-by-mark-manson/index.md)
 * [Start with Why by Simon Sinek](start-with-why-by-simon-sinek/index.md)
 * [The $100 Startup by Chris Guillebeau](the-100-startup-by-chris-guillebeau/index.md)
