@@ -1,7 +1,7 @@
 # Meditations by Marcus Aurelius 
 
-[post](https://www.reddit.com/r/productivity/comments/azukl7/meditations_by_marcus_aurelius_animated_summary_i/)
-[video](https://www.youtube.com/watch?v=ul2nuHOnCPI)
+[Reddit Discussion](https://www.reddit.com/r/productivity/comments/azukl7/meditations_by_marcus_aurelius_animated_summary_i/)
+[YouTube Video](https://www.youtube.com/watch?v=ul2nuHOnCPI)
 
 
 ## Introduction

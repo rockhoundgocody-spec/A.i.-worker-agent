@@ -1,7 +1,7 @@
 # The Compound Effect by Darren Hardy
 
-[post](https://www.reddit.com/r/productivity/comments/b23tev/the_compound_effect_by_darren_hardy_i_made_this/)
-[video](https://www.youtube.com/watch?v=0nSIiAMnDY0)
+[Reddit Discussion](https://www.reddit.com/r/productivity/comments/b23tev/the_compound_effect_by_darren_hardy_i_made_this/)
+[YouTube Video](https://www.youtube.com/watch?v=0nSIiAMnDY0)
 
 
 ## The Book’s Main Idea

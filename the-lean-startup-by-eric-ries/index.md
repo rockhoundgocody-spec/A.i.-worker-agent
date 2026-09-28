@@ -1,7 +1,7 @@
 # The Lean Startup by Eric Ries
 
-[post](https://www.reddit.com/r/Entrepreneur/comments/b62bqq/the_lean_startup_by_eric_ries_animated_summary/)
-[video](https://www.youtube.com/watch?v=j6QPZp--lJE)
+[Reddit Discussion](https://www.reddit.com/r/Entrepreneur/comments/b62bqq/the_lean_startup_by_eric_ries_animated_summary/)
+[YouTube Video](https://www.youtube.com/watch?v=j6QPZp--lJE)
 
 
 ## The Book’s Main Idea

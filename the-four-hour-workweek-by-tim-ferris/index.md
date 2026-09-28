@@ -1,7 +1,7 @@
 # The Four Hour Workweek by Tim Ferris
 
-[post](https://www.reddit.com/r/WorkOnline/comments/b0ltfu/animated_summary_of_the_four_hour_workweek_by_tim/)
-[video](https://www.youtube.com/watch?v=tCWzSlAqO0g)
+[Reddit Discussion](https://www.reddit.com/r/WorkOnline/comments/b0ltfu/animated_summary_of_the_four_hour_workweek_by_tim/)
+[YouTube Video](https://www.youtube.com/watch?v=tCWzSlAqO0g)
 
 ## Overview
 

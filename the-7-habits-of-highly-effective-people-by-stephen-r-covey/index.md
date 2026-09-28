@@ -1,7 +1,7 @@
 # The 7 Habits of Highly Effective People by Stephen R. Covey
 
-[post](https://www.reddit.com/r/productivity/comments/b0lu52/i_made_an_animation_to_summarise_the_best_lessons/)
-[video](https://www.youtube.com/watch?v=_nGzZ9m_Xsg&t=1s)
+[Reddit Discussion](https://www.reddit.com/r/productivity/comments/b0lu52/i_made_an_animation_to_summarise_the_best_lessons/)
+[YouTube Video](https://www.youtube.com/watch?v=_nGzZ9m_Xsg&t=1s)
 
 
 ## Introduction

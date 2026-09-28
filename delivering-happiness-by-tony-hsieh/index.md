@@ -1,7 +1,7 @@
 # Delivering Happiness by Tony Hsieh
 
-[post](https://www.reddit.com/r/WorkOnline/comments/b4vlxt/i_made_an_animated_summary_of_delivering/)
-[video](https://www.youtube.com/watch?v=GiUWCZkHbA8)
+[Reddit Discussion](https://www.reddit.com/r/WorkOnline/comments/b4vlxt/i_made_an_animated_summary_of_delivering/)
+[YouTube Video](https://www.youtube.com/watch?v=GiUWCZkHbA8)
 
 Tony Hsieh, Zappos founder, shares powerful insights on how to deliver happiness to customers in order to make a business venture successful. The book is more of a biography that shares Hsieh’s stories and viewpoints on creating the path to success and building a happy workplace.
 
