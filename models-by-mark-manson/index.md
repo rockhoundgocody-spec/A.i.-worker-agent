@@ -1,7 +1,7 @@
 # Models by Mark Manson
 
-[post](https://www.reddit.com/r/seduction/comments/99srgj/5_psychological_tricks_to_get_her_to_like_you_how/)
-[video](https://www.youtube.com/watch?v=Hs0d7Da8ufo&t=255s)
+[Reddit Discussion](https://www.reddit.com/r/seduction/comments/99srgj/5_psychological_tricks_to_get_her_to_like_you_how/)
+[YouTube Video](https://www.youtube.com/watch?v=Hs0d7Da8ufo&t=255s)
 
  the top five lessons from the book “Models” by Mark Manson.
 

@@ -1,7 +1,7 @@
 # The $100 Startup by Chris Guillebeau
 
-[post](https://www.reddit.com/r/WorkOnline/comments/b45hkh/i_made_an_animated_summary_of_the_100_startup_by/)
-[video](https://www.youtube.com/watch?v=Cqa1LqahOLE)
+[Reddit Discussion](https://www.reddit.com/r/WorkOnline/comments/b45hkh/i_made_an_animated_summary_of_the_100_startup_by/)
+[YouTube Video](https://www.youtube.com/watch?v=Cqa1LqahOLE)
 
 
 ## The Book’s Main Idea
