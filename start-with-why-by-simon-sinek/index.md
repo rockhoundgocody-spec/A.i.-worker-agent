@@ -1,5 +1,7 @@
 # Start with Why by Simon Sinek
 
+[← Back to All Summaries](../README.md)
+
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b2ya4j/start_with_why_by_simon_sinek_animated_summary/)
 [YouTube Video](https://www.youtube.com/watch?v=LgMnlf4jcYY)
 

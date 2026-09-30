@@ -1,5 +1,7 @@
 # The Richest Man in Babylon by George S. Clason
 
+[← Back to All Summaries](../README.md)
+
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/ayo3s0/the_richest_man_in_babylon_animated_summary_hope/)
 [YouTube Video](https://www.youtube.com/watch?v=xbnHlWFnWLs)
 
