@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # The Richest Man in Babylon by George S. Clason
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/ayo3s0/the_richest_man_in_babylon_animated_summary_hope/)
@@ -41,3 +43,7 @@ The subsequent and final chapters of the book reveal how these ancient Babylonia
 ## Conclusion
 
 Accumulating wealth is something that everyone can do, and it is with knowledge of how wealth and money works that will help you attain the financial freedom you desire.
+
+---
+
+[← Back to All Summaries](../README.md)

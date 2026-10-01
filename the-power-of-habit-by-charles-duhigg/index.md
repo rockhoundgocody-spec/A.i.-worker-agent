@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # The Power of Habit by Charles Duhigg
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b0exb2/i_made_this_animated_summary_of_the_power_of/)
@@ -21,3 +23,7 @@ To break any bad habit, you need to be aware of what triggers it, the routine an
 There are certain habits that matter more than others and if you implement just a few strong keystone habits they can have knock on effects in other areas of your life. 3 Keystone habits that will really change your life are reading or listening to audiobooks more, meditation and exercise. Reading or listening to audiobooks will help give you better ideas on how to tackle problems in your life, Exercise will elevate your mood and keep you fitter, meditation will help to keep you calmer and happier. It’s best to focus on these simple keystone habits because these lead to the biggest changes.
 
 Arguably, the key take away from the book is that we create habits to save our time and effort because through habits, we mostly function on auto-pilot and don’t have to think a lot before doing something. Our habits create our reality more than we realise so if you change your habits you really can change your life.
+
+---
+
+[← Back to All Summaries](../README.md)

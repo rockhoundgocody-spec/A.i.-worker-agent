@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # Zero To One by Peter Thiel
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b3rbfi/i_made_an_animation_to_summarise_the_best_lessons/)
@@ -54,3 +56,6 @@ The 12th chapter talks about using technology and human resource simultaneously 
 
 In the 13th chapter of the book, Thiel discusses 7 questions every business must ponder on before starting off to become successful, including questions on the right time to commence a business, how to create a breakthrough with technology and what type of team to select for the business. The last chapter highlights the significance of having great founders for a business as they lead the company towards success.
 
+---
+
+[← Back to All Summaries](../README.md)
