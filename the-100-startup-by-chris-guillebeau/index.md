@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # The $100 Startup by Chris Guillebeau
 
 [Reddit Discussion](https://www.reddit.com/r/WorkOnline/comments/b45hkh/i_made_an_animated_summary_of_the_100_startup_by/)
@@ -53,3 +55,7 @@ Being an entrepreneur or microbusiness owner calls for what Chris calls, “plan
 ## Conclusion
 
 All business success comes from action taken at the right time. As long as you can create something a specific audience will find valuable, you can create a low-startup cost business around it.
+
+---
+
+[← Back to All Summaries](../README.md)

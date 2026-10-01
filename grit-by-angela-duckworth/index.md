@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # Grit by Angela Duckworth
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b3h1pw/grit_by_angela_duckworth_animated_book_summary_i/)
@@ -53,3 +55,7 @@ Grit develops as we go about living life, learning important lessons that mold o
 Grit is an invaluable asset that we can all learn to develop, as long as we take it a step at a time.
 
 “At the start of an endeavor, we need encouragement and freedom to figure out what we enjoy. We need small wins. We need applause. Yes, we can handle a tincture of criticism and corrective feedback. Yes, we need to practice. But not too much and not too soon. Rush a beginner and you’ll bludgeon their budding interest. It’s very, very hard to get that back once you do.”
+
+---
+
+[← Back to All Summaries](../README.md)

@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # Delivering Happiness by Tony Hsieh
 
 [Reddit Discussion](https://www.reddit.com/r/WorkOnline/comments/b4vlxt/i_made_an_animated_summary_of_delivering/)
@@ -35,3 +37,6 @@ In the last chapter of the book, Hsieh encourages the readers to ponder on their
 
 Delivering Happiness is a warm, inspirational read that holds readers by the hand on how to run a successful business.
 
+---
+
+[← Back to All Summaries](../README.md)

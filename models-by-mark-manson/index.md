@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # Models by Mark Manson
 
 [Reddit Discussion](https://www.reddit.com/r/seduction/comments/99srgj/5_psychological_tricks_to_get_her_to_like_you_how/)
@@ -164,3 +166,7 @@ A pause before replying is recommended by a lot of people because it shows you c
 ## Conclusion
 
 They are the top five lessons that I got from this book but they're absolutely loads more lessons that I haven’t covered. I'd recommend listening to the audiobook because it has a lot of analogies and examples that will help you to understand the lessons on a deeper level. If you are interested in reading the book or listening to the audiobook I'll put a link in the description.
+
+---
+
+[← Back to All Summaries](../README.md)

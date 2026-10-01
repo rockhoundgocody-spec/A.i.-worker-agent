@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # The Personal MBA by Josh Kaufman
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b4il5r/i_made_an_animated_summary_of_the_personal_mba_by/)
@@ -43,3 +45,7 @@ On working effectively on your own, Kaufman introduces the idea of MIT (Most Imp
 “New skills create new opportunities, and new opportunities often translate into more income”
 
 To learn new skills—or accomplish anything worthwhile for that matter—write down your goal, use one sentence to describe the motivation behind the aim (the desired outcome), create a list of necessary action steps, and track your progress using a trusted system.
+
+---
+
+[← Back to All Summaries](../README.md)

@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # Start with Why by Simon Sinek
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b2ya4j/start_with_why_by_simon_sinek_animated_summary/)
@@ -91,3 +93,6 @@ In this chapter, Sinek discusses how one should compete with his/ her own self b
 
 Simon Sinek reminds the reader time and again how imbalance and chaos in our lives is a result of the absence of the clear why in your life.
 
+---
+
+[← Back to All Summaries](../README.md)
