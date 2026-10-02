@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # Grit by Angela Duckworth
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b3h1pw/grit_by_angela_duckworth_animated_book_summary_i/)

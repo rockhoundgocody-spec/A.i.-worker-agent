@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # Delivering Happiness by Tony Hsieh
 
 [Reddit Discussion](https://www.reddit.com/r/WorkOnline/comments/b4vlxt/i_made_an_animated_summary_of_delivering/)
