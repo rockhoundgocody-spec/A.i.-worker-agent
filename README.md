@@ -2,6 +2,8 @@
 
 Book summaries by [/u/alwaysimproving95 on Reddit](https://www.reddit.com/user/alwaysimproving95)
 
+## Book Summaries
+
 * [Delivering Happiness by Tony Hsieh](delivering-happiness-by-tony-hsieh/index.md)
 * [Grit by Angela Duckworth](grit-by-angela-duckworth/index.md)
 * [Meditations by Marcus Aurelius](meditations-by-marcus-aurelius/index.md)
