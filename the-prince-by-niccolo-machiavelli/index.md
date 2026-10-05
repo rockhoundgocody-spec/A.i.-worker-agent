@@ -1,7 +1,7 @@
 # The Prince by Niccolò Machiavelli
 
-[Reddit Discussion](https://www.reddit.com/r/Entrepreneur/comments/b10ebg/made_an_animated_summary_of_the_prince_by_niccol%C3%B2/)
-[YouTube Video](https://www.youtube.com/watch?v=lzVmhWFdwBQ)
+[Reddit Discussion for The Prince by Niccolò Machiavelli](https://www.reddit.com/r/Entrepreneur/comments/b10ebg/made_an_animated_summary_of_the_prince_by_niccol%C3%B2/)
+[YouTube Video for The Prince by Niccolò Machiavelli](https://www.youtube.com/watch?v=lzVmhWFdwBQ)
 
 
 ## Introduction

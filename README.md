@@ -1,6 +1,6 @@
 # Always Improving
 
-Book summaries by [/u/alwaysimproving95 on Reddit](https://www.reddit.com/user/alwaysimproving95)
+Book summaries by [/u/alwaysimproving95 on Reddit](https://www.reddit.com/user/alwaysimproving95 "Reddit profile of user alwaysimproving95")
 
 * [Delivering Happiness by Tony Hsieh](delivering-happiness-by-tony-hsieh/index.md)
 * [Grit by Angela Duckworth](grit-by-angela-duckworth/index.md)
