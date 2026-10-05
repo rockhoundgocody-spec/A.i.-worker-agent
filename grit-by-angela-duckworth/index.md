@@ -1,7 +1,7 @@
 # Grit by Angela Duckworth
 
-[Reddit Discussion](https://www.reddit.com/r/productivity/comments/b3h1pw/grit_by_angela_duckworth_animated_book_summary_i/)
-[YouTube Video](https://www.youtube.com/watch?v=doUSy1Eo76s)
+[Reddit Discussion for Grit by Angela Duckworth](https://www.reddit.com/r/productivity/comments/b3h1pw/grit_by_angela_duckworth_animated_book_summary_i/)
+[YouTube Video for Grit by Angela Duckworth](https://www.youtube.com/watch?v=doUSy1Eo76s)
 
 
 ## About The Author
