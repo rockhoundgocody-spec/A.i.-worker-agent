@@ -2,6 +2,7 @@
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/ayo3s0/the_richest_man_in_babylon_animated_summary_hope/)
 [YouTube Video](https://www.youtube.com/watch?v=xbnHlWFnWLs)
+[← Back to Summary List](../README.md)
 
 
 ## Introduction

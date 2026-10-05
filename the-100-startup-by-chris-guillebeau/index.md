@@ -2,6 +2,7 @@
 
 [Reddit Discussion](https://www.reddit.com/r/WorkOnline/comments/b45hkh/i_made_an_animated_summary_of_the_100_startup_by/)
 [YouTube Video](https://www.youtube.com/watch?v=Cqa1LqahOLE)
+[← Back to Summary List](../README.md)
 
 
 ## The Book’s Main Idea

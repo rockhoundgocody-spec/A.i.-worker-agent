@@ -2,6 +2,7 @@
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b3rbfi/i_made_an_animation_to_summarise_the_best_lessons/)
 [YouTube Video](https://www.youtube.com/channel/UCfbLDMh6uGOZePAfqqjVZ-g)
+[← Back to Summary List](../README.md)
 
 Peter Thiel is one of the greatest business minds in the world. Besides authoring Zero to One, he is also the cofounder of PayPal along with several other companies. The book is primarily about how businesses can be successful. And owing to the fact that this book is written by a serial entrepreneur having cofounded multibillion dollar companies, you can bet that it is packed with real life next level wisdom taking business to the next level.
 

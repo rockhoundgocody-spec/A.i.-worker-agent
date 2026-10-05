@@ -2,6 +2,7 @@
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b4il5r/i_made_an_animated_summary_of_the_personal_mba_by/)
 [YouTube Video](https://www.youtube.com/watch?v=eFpXccN3YEU)
+[← Back to Summary List](../README.md)
 
 ## The Book’s Main Idea
 
