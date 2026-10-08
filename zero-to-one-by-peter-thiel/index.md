@@ -1,5 +1,7 @@
 # Zero To One by Peter Thiel
 
+[← Back to All Summaries](../README.md)
+
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b3rbfi/i_made_an_animation_to_summarise_the_best_lessons/)
 [YouTube Video](https://www.youtube.com/channel/UCfbLDMh6uGOZePAfqqjVZ-g)
 
