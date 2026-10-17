@@ -1,7 +1,9 @@
+[← Back to All Summaries](../README.md)
+
 # The Personal MBA by Josh Kaufman
 
-[Reddit Discussion](https://www.reddit.com/r/productivity/comments/b4il5r/i_made_an_animated_summary_of_the_personal_mba_by/)
-[YouTube Video](https://www.youtube.com/watch?v=eFpXccN3YEU)
+* [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b4il5r/i_made_an_animated_summary_of_the_personal_mba_by/)
+* [YouTube Video](https://www.youtube.com/watch?v=eFpXccN3YEU)
 
 ## The Book’s Main Idea
 
