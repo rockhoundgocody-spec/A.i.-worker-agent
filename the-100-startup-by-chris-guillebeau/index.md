@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # The $100 Startup by Chris Guillebeau
 
 [Reddit Discussion](https://www.reddit.com/r/WorkOnline/comments/b45hkh/i_made_an_animated_summary_of_the_100_startup_by/)
