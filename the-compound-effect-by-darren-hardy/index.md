@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # The Compound Effect by Darren Hardy
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b23tev/the_compound_effect_by_darren_hardy_i_made_this/)
