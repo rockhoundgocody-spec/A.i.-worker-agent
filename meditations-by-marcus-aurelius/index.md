@@ -1,5 +1,7 @@
 # Meditations by Marcus Aurelius 
 
+[← Back to All Summaries](../README.md)
+
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/azukl7/meditations_by_marcus_aurelius_animated_summary_i/)
 [YouTube Video](https://www.youtube.com/watch?v=ul2nuHOnCPI)
 
@@ -43,4 +45,3 @@ In the ninth, tenth and eleventh book, Marcus has talked about sin, the importan
 ## Conclusion
 
 In the 12 books, Marcus Aurelius provides guidelines on how to live a meaningful, empowered life, find your vision and build goals consistent with the vision so you stop moving haphazardly, become focused and live a consistent, meaningful life.
-

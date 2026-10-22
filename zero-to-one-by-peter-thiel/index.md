@@ -1,5 +1,7 @@
 # Zero To One by Peter Thiel
 
+[← Back to All Summaries](../README.md)
+
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b3rbfi/i_made_an_animation_to_summarise_the_best_lessons/)
 [YouTube Video](https://www.youtube.com/channel/UCfbLDMh6uGOZePAfqqjVZ-g)
 
@@ -53,4 +55,3 @@ The 10th chapter highlights the importance of building a cult by your business l
 The 12th chapter talks about using technology and human resource simultaneously in the business to make it successful.
 
 In the 13th chapter of the book, Thiel discusses 7 questions every business must ponder on before starting off to become successful, including questions on the right time to commence a business, how to create a breakthrough with technology and what type of team to select for the business. The last chapter highlights the significance of having great founders for a business as they lead the company towards success.
-

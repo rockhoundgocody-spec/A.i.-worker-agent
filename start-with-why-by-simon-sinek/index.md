@@ -1,5 +1,7 @@
 # Start with Why by Simon Sinek
 
+[← Back to All Summaries](../README.md)
+
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b2ya4j/start_with_why_by_simon_sinek_animated_summary/)
 [YouTube Video](https://www.youtube.com/watch?v=LgMnlf4jcYY)
 
@@ -90,4 +92,3 @@ Sinek talks about how to find your why, you must look inside you and not just re
 In this chapter, Sinek discusses how one should compete with his/ her own self because that’s when you can set higher benchmarks for yourself. Also, when you compete with yourself people are ready to help you. You miss that help when people see you competing against them.
 
 Simon Sinek reminds the reader time and again how imbalance and chaos in our lives is a result of the absence of the clear why in your life.
-

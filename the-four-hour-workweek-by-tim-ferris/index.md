@@ -1,5 +1,7 @@
 # The Four Hour Workweek by Tim Ferris
 
+[← Back to All Summaries](../README.md)
+
 [Reddit Discussion](https://www.reddit.com/r/WorkOnline/comments/b0ltfu/animated_summary_of_the_four_hour_workweek_by_tim/)
 [YouTube Video](https://www.youtube.com/watch?v=tCWzSlAqO0g)
 
@@ -63,4 +65,3 @@ Talking of not wasting time on unimportant things:
 Make sure to come up with your not-to-do-list. You can include such things as web browsing, email shuffling, status meetings, Etc.
 
 Tim Ferris makes it clear that “no” is a tool that you need to wield frequently. Free up time by saying “no” to low consequence work, especially if it will take up a lot of your time. You do not need to write a thesis for your excuses either- keep them vague for the most part.
-

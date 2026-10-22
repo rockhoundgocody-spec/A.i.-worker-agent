@@ -1,5 +1,7 @@
 # The Lean Startup by Eric Ries
 
+[← Back to All Summaries](../README.md)
+
 [Reddit Discussion](https://www.reddit.com/r/Entrepreneur/comments/b62bqq/the_lean_startup_by_eric_ries_animated_summary/)
 [YouTube Video](https://www.youtube.com/watch?v=j6QPZp--lJE)
 
@@ -71,6 +73,5 @@ Under accelerate Reis focuses on teaching the reader the following topics.
 ## Conclusion
 
 The big take away from the book, ‘The Lean Start-up’ is; entrepreneurship is management so for the reader to succeed in it, they need to manage their start-up business as the institution it is and avoid jumping head first into ideas.
-
 
 
