@@ -1,5 +1,7 @@
 # Delivering Happiness by Tony Hsieh
 
+[← Back to All Summaries](../README.md)
+
 [Reddit Discussion](https://www.reddit.com/r/WorkOnline/comments/b4vlxt/i_made_an_animated_summary_of_delivering/)
 [YouTube Video](https://www.youtube.com/watch?v=GiUWCZkHbA8)
 
@@ -34,4 +36,3 @@ Then in chapter 6, the focus is on the need to build and maintain great, profita
 In the last chapter of the book, Hsieh encourages the readers to ponder on their goals and aspirations in life because it is only when you are clear on what you wish to achieve that you can become successful in life. He also talks about how one’s mission should be to deliver happiness to the entire world, including your customers when running a business because that’s how you can influence people. This can be achieved by pursuing an idea you are truly invested in.
 
 Delivering Happiness is a warm, inspirational read that holds readers by the hand on how to run a successful business.
-

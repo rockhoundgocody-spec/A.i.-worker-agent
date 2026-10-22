@@ -1,5 +1,7 @@
 # The Prince by Niccolò Machiavelli
 
+[← Back to All Summaries](../README.md)
+
 [Reddit Discussion](https://www.reddit.com/r/Entrepreneur/comments/b10ebg/made_an_animated_summary_of_the_prince_by_niccol%C3%B2/)
 [YouTube Video](https://www.youtube.com/watch?v=lzVmhWFdwBQ)
 
@@ -39,4 +41,3 @@ Be Present in the Moment: It teaches us the importance of being mindful of the p
 Be Careful when Trusting People: Man cannot function successfully alone. We need a team to grow and succeed in life. That said, you need to be very cautious of the people you trust and of those you decide to work for you because a single dishonest person can be your downfall. According to Machiavelli, "A wise man ought always to follow the paths beaten by great men, and to imitate those who have been supreme, so that if his ability does not equal theirs, at least it will savor of it."
 
 Be Proactive and Prepared for Worst Case Scenarios: Being proactive helps you to mitigate the problems that arise because of the unexpected. While preparing to win, do consider worst case scenarios and prepare for them beforehand. Like Machiavelli writes in the book, "A wise prince ought to observe some such rules, and never in peaceful times stand idle, but increase his resources with industry in such a way that they may be available to him in adversity, so that if fortune changes, it may find him prepared to resist her blows."
-
