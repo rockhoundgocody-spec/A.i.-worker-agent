@@ -1,5 +1,7 @@
 # The Slight Edge by Jeff Olson
 
+[← Back to All Summaries](../README.md)
+
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b09swy/the_slight_edge_by_jeff_olson_animated_summary_i/)
 [YouTube Video](https://www.youtube.com/watch?v=sItMk2xS_ZU)
 
