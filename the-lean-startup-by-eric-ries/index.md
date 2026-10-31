@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # The Lean Startup by Eric Ries
 
 [Reddit Discussion](https://www.reddit.com/r/Entrepreneur/comments/b62bqq/the_lean_startup_by_eric_ries_animated_summary/)
