@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # Meditations by Marcus Aurelius 
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/azukl7/meditations_by_marcus_aurelius_animated_summary_i/)
