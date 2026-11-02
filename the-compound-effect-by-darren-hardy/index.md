@@ -3,6 +3,8 @@
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b23tev/the_compound_effect_by_darren_hardy_i_made_this/)
 [YouTube Video](https://www.youtube.com/watch?v=0nSIiAMnDY0)
 
+[← Back to All Summaries](../README.md)
+
 
 ## The Book’s Main Idea
 

@@ -3,6 +3,8 @@
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b3h1pw/grit_by_angela_duckworth_animated_book_summary_i/)
 [YouTube Video](https://www.youtube.com/watch?v=doUSy1Eo76s)
 
+[← Back to All Summaries](../README.md)
+
 
 ## About The Author
 

@@ -3,6 +3,8 @@
 [Reddit Discussion](https://www.reddit.com/r/Entrepreneur/comments/b62bqq/the_lean_startup_by_eric_ries_animated_summary/)
 [YouTube Video](https://www.youtube.com/watch?v=j6QPZp--lJE)
 
+[← Back to All Summaries](../README.md)
+
 
 ## The Book’s Main Idea
 

@@ -3,6 +3,8 @@
 [Reddit Discussion](https://www.reddit.com/r/WorkOnline/comments/b0ltfu/animated_summary_of_the_four_hour_workweek_by_tim/)
 [YouTube Video](https://www.youtube.com/watch?v=tCWzSlAqO0g)
 
+[← Back to All Summaries](../README.md)
+
 ## Overview
 
 The Four-Hour Work Week is one of the bestselling books, which talk about leveraging the power of other people (mostly through technology) to free yourself from the rat race of having to work for money and instead having money work for you. So if you ever want to know how it is possible to make a full time income working just a few hours per week, you will definitely see this book as one of the most recommended books.

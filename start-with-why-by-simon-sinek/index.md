@@ -3,6 +3,8 @@
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b2ya4j/start_with_why_by_simon_sinek_animated_summary/)
 [YouTube Video](https://www.youtube.com/watch?v=LgMnlf4jcYY)
 
+[← Back to All Summaries](../README.md)
+
 ‘Start with Why’ is an inspirational book by Simon Sinek that centers on asking yourself deep, meaningful questions that help you understand your purpose in life and exactly why you wish to actualize it. It talks about how you can achieve truly remarkable things by simply focusing on the ‘why’ associated with things.
 
 You can get this book for free with a trial of audible using the link in the description of this video. Subscribe and turn on the notification bell so you don’t miss any future summaries.

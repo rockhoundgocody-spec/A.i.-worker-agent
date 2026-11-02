@@ -3,6 +3,8 @@
 [Reddit Discussion](https://www.reddit.com/r/seduction/comments/99srgj/5_psychological_tricks_to_get_her_to_like_you_how/)
 [YouTube Video](https://www.youtube.com/watch?v=Hs0d7Da8ufo&t=255s)
 
+[← Back to All Summaries](../README.md)
+
  the top five lessons from the book “Models” by Mark Manson.
 
 The tagline of the book is “how to attract women through honesty” while it definitely teaches this it doesn’t mean if you have a girlfriend the lessons aren’t useful. The lessons will also teach you how to be more charismatic and confident around anyone you meet not just women. The lesson will work for anyone trying to attract anyone no matter what sexuality or gender.

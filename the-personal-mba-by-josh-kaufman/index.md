@@ -3,6 +3,8 @@
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b4il5r/i_made_an_animated_summary_of_the_personal_mba_by/)
 [YouTube Video](https://www.youtube.com/watch?v=eFpXccN3YEU)
 
+[← Back to All Summaries](../README.md)
+
 ## The Book’s Main Idea
 
 Mental models are the book’s big idea. Kaufman notes that once you understand your mental models, the framework that defines how you learn anything, you can learn any business related skill and core business concepts and frameworks.
