@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # The 7 Habits of Highly Effective People by Stephen R. Covey
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b0lu52/i_made_an_animation_to_summarise_the_best_lessons/)
