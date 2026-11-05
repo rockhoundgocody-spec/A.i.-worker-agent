@@ -1,3 +1,5 @@
+[← Back to All Summaries](../README.md)
+
 # The Power of Habit by Charles Duhigg
 
 [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b0exb2/i_made_this_animated_summary_of_the_power_of/)
