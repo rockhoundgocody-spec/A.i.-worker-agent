@@ -2,8 +2,8 @@
 
 # The Power of Habit by Charles Duhigg
 
-[Reddit Discussion](https://www.reddit.com/r/productivity/comments/b0exb2/i_made_this_animated_summary_of_the_power_of/)
-[YouTube Video](https://www.youtube.com/watch?v=d366w-o8nhA)
+* [Reddit Discussion](https://www.reddit.com/r/productivity/comments/b0exb2/i_made_this_animated_summary_of_the_power_of/)
+* [YouTube Video](https://www.youtube.com/watch?v=d366w-o8nhA)
 
 
 ## The Habit Loop – How Habits Work
