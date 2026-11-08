@@ -49,3 +49,4 @@ Covey tells readers that a team is much stronger than an individual, and the eff
 
 Take care of yourself, because you are your greatest asset. You could have developed all the successful habits in the world, but if you don’t care for yourself, you won’t get very far on the road to success either. There are four major aspects of self-care, which Covey says we need to focus on, and these are physical, mental, social and spiritual aspect of our lives. It is important to care for all four aspects so that neither one is neglected or overlooked. These are the habits that help us achieve true overall success.
 
+[← Back to All Summaries](../README.md)

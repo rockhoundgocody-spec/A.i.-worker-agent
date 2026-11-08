@@ -116,3 +116,5 @@ It discusses how you need to work on setting goals in the different areas of you
 In the final chapter, Olson describes how you need to carry out one discipline every day, review your performance, and ensure to surround yourself with positive, successful people to be successful in life.
 
 Olson provides simple and easy-to-follow tactics in this book which if implemented can help you get the edge you have always wanted.
+
+[← Back to All Summaries](../README.md)

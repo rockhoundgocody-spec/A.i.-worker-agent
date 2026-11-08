@@ -93,3 +93,4 @@ In this chapter, Sinek discusses how one should compete with his/ her own self b
 
 Simon Sinek reminds the reader time and again how imbalance and chaos in our lives is a result of the absence of the clear why in your life.
 
+[← Back to All Summaries](../README.md)
