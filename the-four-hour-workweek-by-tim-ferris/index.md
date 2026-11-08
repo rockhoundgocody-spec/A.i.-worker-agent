@@ -66,3 +66,4 @@ Make sure to come up with your not-to-do-list. You can include such things as we
 
 Tim Ferris makes it clear that “no” is a tool that you need to wield frequently. Free up time by saying “no” to low consequence work, especially if it will take up a lot of your time. You do not need to write a thesis for your excuses either- keep them vague for the most part.
 
+[← Back to All Summaries](../README.md)
