@@ -46,3 +46,4 @@ In the ninth, tenth and eleventh book, Marcus has talked about sin, the importan
 
 In the 12 books, Marcus Aurelius provides guidelines on how to live a meaningful, empowered life, find your vision and build goals consistent with the vision so you stop moving haphazardly, become focused and live a consistent, meaningful life.
 
+[← Back to All Summaries](../README.md)

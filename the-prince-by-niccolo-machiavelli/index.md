@@ -42,3 +42,4 @@ Be Careful when Trusting People: Man cannot function successfully alone. We need
 
 Be Proactive and Prepared for Worst Case Scenarios: Being proactive helps you to mitigate the problems that arise because of the unexpected. While preparing to win, do consider worst case scenarios and prepare for them beforehand. Like Machiavelli writes in the book, "A wise prince ought to observe some such rules, and never in peaceful times stand idle, but increase his resources with industry in such a way that they may be available to him in adversity, so that if fortune changes, it may find him prepared to resist her blows."
 
+[← Back to All Summaries](../README.md)
