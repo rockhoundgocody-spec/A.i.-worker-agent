@@ -37,3 +37,4 @@ In the last chapter of the book, Hsieh encourages the readers to ponder on their
 
 Delivering Happiness is a warm, inspirational read that holds readers by the hand on how to run a successful business.
 
+[← Back to All Summaries](../README.md)
