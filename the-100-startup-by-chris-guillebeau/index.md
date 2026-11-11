@@ -55,3 +55,5 @@ Being an entrepreneur or microbusiness owner calls for what Chris calls, “plan
 ## Conclusion
 
 All business success comes from action taken at the right time. As long as you can create something a specific audience will find valuable, you can create a low-startup cost business around it.
+
+[← Back to All Summaries](../README.md)
