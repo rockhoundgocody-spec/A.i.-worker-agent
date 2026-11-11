@@ -74,5 +74,4 @@ Under accelerate Reis focuses on teaching the reader the following topics.
 
 The big take away from the book, ‘The Lean Start-up’ is; entrepreneurship is management so for the reader to succeed in it, they need to manage their start-up business as the institution it is and avoid jumping head first into ideas.
 
-
-
+[← Back to All Summaries](../README.md)

@@ -60,3 +60,5 @@ As long as you are aware of your moment-to-moment choices, and are making sure t
 “The most challenging aspect of the Compound Effect is that we have to keep working away for a while, consistently and efficiently, before we can begin to see the payoff.”
 
 Darren Hardy
+
+[← Back to All Summaries](../README.md)

@@ -43,3 +43,5 @@ The subsequent and final chapters of the book reveal how these ancient Babylonia
 ## Conclusion
 
 Accumulating wealth is something that everyone can do, and it is with knowledge of how wealth and money works that will help you attain the financial freedom you desire.
+
+[← Back to All Summaries](../README.md)
